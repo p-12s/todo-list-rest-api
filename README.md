@@ -30,5 +30,7 @@ select * from users;
 ```
 go run ./cmd/main.go
 ```
+  
+  
 Документация методов:  
 http://localhost:8000/swagger/index.html
