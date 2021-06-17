@@ -1,3 +1,6 @@
+![License](https://img.shields.io/github/license/p-12s/todo-list-rest-api?style=plastic)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/p-12s/todo-list-rest-api?style=plastic)
+
 # Приложение "Список дел" (только REST API часть)
 
 Запуск контейнера с postgresql (для простоты MVP база в нем):
